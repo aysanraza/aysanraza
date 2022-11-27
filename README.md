@@ -2,7 +2,7 @@
 - 👀 I’m interested in Drug Repositioing, Machine Learning, and Multi-OMICS Integration.
 - 🌱 I’m currently learning advance AI for Drug Development and Genomics. 
 - 💞️ I’m looking to collaborate on any AI/Analytics project falling under biological or medical Sciences.
-- 📫 You can reach me [Linkdin] (https://www.linkedin.com/in/ahsan-raza-0510b1128/)
+- 📫 You can reach me [Linkdin](https://www.linkedin.com/in/ahsan-raza-0510b1128/)
 - ---
 
 
